@@ -1,0 +1,44 @@
+body {
+  background-color: #18381F;
+}
+
+hr {
+  border-color: #BED7B2;
+  border-width: 6px;
+  border-style: dotted none none;
+  width: 200px;
+}
+
+p {
+  color:#BED7B2
+}
+
+table {
+  padding: 10px;
+}
+
+td {
+  padding: 5px;
+  max-width: 150px;
+}
+
+h1 {
+  color:#B3DC62;
+}
+
+h2 {
+  color: #88BC22;
+  text-align:center;
+}
+
+h3 {
+  color:#4E8D0D;
+}
+
+a {
+  color:#58AD02;
+}
+
+.contain {
+  width: 700px;
+}
